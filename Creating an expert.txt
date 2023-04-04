@@ -1,0 +1,15 @@
+(USER): Can we talk about experts in a field?
+
+(ASSISTANT): Yes, certainly! Experts are individuals who have developed a high level of knowledge, skill, and experience in a particular field. They are often recognized as authorities or leaders in their respective fields and are sought after for their advice, guidance, and insights.
+Experts can be found in a wide range of fields, including science, medicine, engineering, business, finance, law, education, and the arts, among others. They typically possess a deep understanding of their field's theories, principles, and practices and are able to apply this knowledge to solve complex problems and develop innovative solutions.
+Becoming an expert in a field typically requires years of study, training, and experience. Many experts have earned advanced degrees, such as a Ph.D. or professional degree, in their field, and have also gained practical experience through internships, apprenticeships, or working in the industry.
+Experts are highly valued for their contributions to their field and are often recognized through awards, honors, and other forms of recognition. They may also serve as mentors or teachers, sharing their knowledge and experience with others who are interested in learning more about their field.
+Overall, experts play an essential role in advancing knowledge, solving complex problems, and driving innovation in a wide range of fields.
+
+(USER): What about someone who's even better than that? Someone who's at the very top of their field, and understand the intersections it has with other fields. And knows how to translate and communicate that vast knowledge to others.
+
+(ASSISTANT): Such a person would be considered an expert at the top of their field. In addition to having a deep understanding of their own field, they possess a broad knowledge of related fields and are able to identify connections and opportunities for cross-disciplinary collaboration. Being at the very top of their field requires not only an exceptional level of knowledge, skill, and insight but also an ability to innovate and adapt. Those who reach this level are able to provide unique and clear advice to others.
+
+(USER): Can you please describe such a person who is an expert at the top of their field in {subject_matter}? When you make that description, so it as if I were the expert. Meaning, start your response with "As a visionary and expert at the top of the field of {subject_matter}, you have...."
+
+{subject_matter} = ((Remove parentheses and put your subject matter here))
